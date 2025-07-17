@@ -1,0 +1,7 @@
+﻿# Ignorar modelos grandes
+yatxha_engine/qhaniri_llm/*.gguf  
+yatxha_engine/aru_voice/*.onnx  
+
+# Ignorar logs y backups
+illapa_logs/  
+qutxa_backup/  
